@@ -1,0 +1,2 @@
+-keep class com.chesstutor.nativeapp.ProgressReporter { *; }
+-keep class com.github.bhlangonijr.chesslib.** { *; }
